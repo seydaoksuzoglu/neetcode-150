@@ -1,5 +1,9 @@
 # 1. Contains Duplicate | Arrays & Hashing
-# Tetikleyici: "daha önce gördüm mü? sorusunu "
+# Tetikleyici: "daha önce gördüm mü? sorusunu sor, gördüklerini sette tut.
+# Benim ilk çözümüm: çift döngü O(n^2) - çalıştı ama yavaş
+# Daha iyisi: set ile tek geçiş O(n)
+# Var mı yok mu sorusu görünce set/hashmap düşün.
+
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         hashset = set()
