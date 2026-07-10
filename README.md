@@ -1,7 +1,7 @@
 # neetcode-150
 My solutions to the Neetcode 150 challenge, focusing on data structures and algorithms using Python. Organized by pattern. One problem a day (6 days a week).
 
-**Progress:** 2 / 150
+**Progress:** 3 / 150
 
 ## Approach
 - Solve each problem myself first (no AI, ~25 min) before checking the solution.
@@ -12,4 +12,4 @@ My solutions to the Neetcode 150 challenge, focusing on data structures and algo
 See `patterns.md` for the cheat sheet I build as I go.
 
 ## Progress by category
-- Arrays & Hashing — 2/9
+- Arrays & Hashing — 3/9
